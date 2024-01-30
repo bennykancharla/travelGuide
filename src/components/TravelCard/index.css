@@ -1,0 +1,23 @@
+.list-item {
+  width: 40%;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #ffffff;
+}
+
+.image {
+  width: 100%;
+}
+
+.card-heading {
+  margin-left: 15px;
+  color: #475569;
+}
+
+.card-para {
+  margin-left: 15px;
+  color: #64748b;
+  margin-bottom: 30px;
+}
